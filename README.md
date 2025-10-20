@@ -1,4 +1,4 @@
-# 💳 IlovePython_HW
+# IlovePython_HW
 **Materia:** Modelos de Crédito  
 **Autora:** Jeanette Valenzuela Gutiérrez  
 **Fecha:** Octubre 2025  
